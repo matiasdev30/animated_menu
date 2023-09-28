@@ -1,16 +1,6 @@
 # animated_menu
 
-A new Flutter project.
+A simple animated menu
 
-## Getting Started
+https://github.com/matiasdev30/animated_menu/assets/50122963/6c1d38d4-72a5-4ae2-a183-848ba5aebcd4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
